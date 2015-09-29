@@ -1,0 +1,14 @@
+复制库文件到subl目录
+sudo cp libsublime-imfix.so /opt/sublime_text/
+
+
+sudo cp subl /usr/bin/subl
+
+
+
+sudo cp sublime_text.desktop /usr/share/applications/sublime_text.desktop
+
+
+
+安装中文包
+sudo cp Default.sublime-package /opt/sublime_text/Packages
